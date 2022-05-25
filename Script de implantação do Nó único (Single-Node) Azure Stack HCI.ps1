@@ -96,6 +96,8 @@ Referências:
 
 https://techcommunity.microsoft.com/t5/azure-stack-blog/announcing-azure-stack-hci-support-for-single-node-clusters/ba-p/3408431?WT.mc_id=WDIT-MVP-5003815
 
+https://docs.microsoft.com/pt-br/azure-stack/hci/deploy/operating-system?WT.mc_id=WDIT-MVP-5003815
+
 https://docs.microsoft.com/pt-br/azure-stack/hci/concepts/single-server-clusters?WT.mc_id=WDIT-MVP-5003815
 
 https://docs.microsoft.com/pt-br/azure-stack/hci/deploy/single-server?WT.mc_id=WDIT-MVP-5003815
