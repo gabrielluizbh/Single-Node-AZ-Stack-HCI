@@ -1,4 +1,4 @@
-﻿## Script de implantação do Nó único (Single-Node) Azure Stack HCI - Créditos Gabriel Luiz - www.gabrielluiz.com ##
+﻿## Script de implantação do Nó único (Single-Node) no Azure Stack HCI - Créditos Gabriel Luiz - www.gabrielluiz.com ##
 
 
 # 1. Verifique se o Active Directory e o DNS estão instalados e acessíveis.
