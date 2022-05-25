@@ -18,7 +18,7 @@
   # f. Adicionar o usuário do domínio ao grupo de administradores locais. Comando: Net localgroup administrators DOMAIN\USER /add
   # g. Instale os recursos necessários (usando Sconfig, saia para o PowerShell, opção 15). Comando: 
         
-  Install-WindowsFeature -Name Hyper-V, Failover-Clustering, FS-DataDeduplication, Bitlocker, Data-Center-Bridging, RSAT-ADPowerShell, NetworkATC -IncludeAllSubFeature -IncludeManagementTools -Verbose
+  Install-WindowsFeature -Name Hyper-V, Failover-Clustering, FS-Data-Deduplication, Bitlocker, Data-Center-Bridging, RSAT-AD-PowerShell, NetworkATC -IncludeAllSubFeature -IncludeManagementTools -Verbose
   
   # h. Instale atualizações cumulativas usando Sconfig, selecione a opção 6, depois a opção 1 e depois 3, selecione para baixar instalar todas as atualizações de qualidade ou recursos.
   # i. Renicie o servidor para aplicar as atualizações.
