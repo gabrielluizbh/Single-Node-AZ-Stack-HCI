@@ -104,6 +104,8 @@ https://docs.microsoft.com/en-us/azure-stack/hci/manage/register-windows-admin-c
 
 https://docs.microsoft.com/en-us/azure-stack/hci/deploy/register-with-azure?WT.mc_id=WDIT-MVP-5003815
 
+https://docs.microsoft.com/pt-br/azure-stack/hci/manage/create-volumes?WT.mc_id=AZ-MVP-5003815#create-volumes-using-windows-powershell
+
 https://docs.microsoft.com/pt-br/windows-server/manage/windows-admin-center/use/manage-virtual-machines?WT.mc_id=WDIT-MVP-5003815
 
 
