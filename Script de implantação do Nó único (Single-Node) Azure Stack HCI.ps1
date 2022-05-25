@@ -3,11 +3,11 @@
 
 # 1. Verifique se o Active Directory e o DNS estão instalados e acessíveis.
 
-# 2. verifique se você tem acesso a credenciais de domínio e senha relevantes para adicionar um computador ao domínio.
+# 2. Verifique se você tem acesso a credenciais de domínio e senha relevantes para adicionar um computador ao domínio.
 
 # 3. Verifique se o DHCP está instalado e acessível (opcional, se necessário). Se não for DHCP, o endereço IP estático/Gateway padrão e o endereço IP DNS/FQDN são conhecido.
 
-# 4. Instale o sistema operacional Azure Stack HCI em seu servidor, você pode fazer o download em https://azure.microsoft.com/products/azure-stack/hci/?WT.mc_id=WDIT-MVP-5003815
+# 4. Instale o sistema operacional Azure Stack HCI em seu servidor, você pode fazer o download em https://azure.microsoft.com/products/azure-stack/hci/?WT.mc_id=WDIT-MVP-5003815 e tutorial de instalação em https://docs.microsoft.com/pt-br/azure-stack/hci/deploy/operating-system?WT.mc_id=WDIT-MVP-5003815.
 
 # 5. Configure o servidor Azure Stack HCI utilizando o Sconfig.
 
