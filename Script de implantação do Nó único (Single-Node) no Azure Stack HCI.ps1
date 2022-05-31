@@ -57,10 +57,10 @@
   # a. (você pode pular -StaticAddress ""cluster IPAddress"" se estiver usando DHCP).
   New-Cluster -Name ClusterName -Node NodeName.domain.com -StaticAddress "cluster IPAddress" –NOSTORAGE
 
-# 11. Ativar S2D.
+# 11. Ativar S2D com cache desabilitado.
   
   # a.
-  Enable-ClusterS2D -verbose
+  Enable-ClusterStorageSpacesDirect -CacheState Disabled
 
 # 12. Adicione o servidor ao gerenciamento de cluster do Windows Admin Center, adicione pelo DNS ou IP (mais rápido).
 
