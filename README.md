@@ -4,6 +4,6 @@
 
 Script de implantação do Nó único (Single-Node) no Azure Stack HCI.ps1
 
-**Em breve o vídeo de implantação do Nó único (Single-Node) no Azure Stack HCI no meu canal do YouTube: https://youtube.com/gabrielluibh/**
+**Para maior entendimento para execução do script acesse o link do artigo: https://gabrielluiz.com/2022/06/single-server-clusters/**
 
 **Créditos - Gabriel Luiz - www.gabrielluiz.com**
