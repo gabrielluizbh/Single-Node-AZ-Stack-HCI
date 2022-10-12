@@ -44,7 +44,7 @@
 
 # 9. Configurar NetworkATC.
   
-  # a.
+  # a. Crie a rede NetworkATC. Substitua o localhost pelo hostname do Azure Stack HCI.
   Add-NetIntent -Name Management_Compute -Management -Compute -ComputerName localhost -AdapterName MGMT-A,MGMT-B
 
   # b. Configurar VLAN de gerenciamento (opcional).
