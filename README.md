@@ -1,6 +1,6 @@
 # Script de implantação do Nó único (Single-Node) no Azure Stack HCI.
 
-**Conteúdos:**
+**Conteúdo:**
 
 Script de implantação do Nó único (Single-Node) no Azure Stack HCI.ps1
 
